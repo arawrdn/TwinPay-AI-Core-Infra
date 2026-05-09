@@ -1,0 +1,20 @@
+{
+  "name": "TwinPayAI Early Adopter SBT",
+  "description": "A Soulbound Token representing your unique identity and contribution within the TwinPayAI ecosystem.",
+  "image": "ipfs://[STXxcejushehjejekd7751jd9deeb]",
+  "attributes": [
+    {
+      "trait_type": "Access",
+      "value": "Early Adopter"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Celo"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Governance Power",
+      "value": 10
+    }
+  ]
+}
