@@ -2,6 +2,8 @@
 
 This repository contains the smart contract and on-chain logic for **TwinPayAI**, deployed on the **Celo Network**. This project is specifically architected to maximize **Daily Active Users (DAU)** by gamifying on-chain interactions.
 
+# Smart Contract : 0xd7E14B16CEFcAcc05349815022DFD4e2Fd7ae232
+
 ## Key Features
 
 ### 1. TwinPay SBT (Identity)
